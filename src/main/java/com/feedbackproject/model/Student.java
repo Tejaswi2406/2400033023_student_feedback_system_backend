@@ -1,4 +1,4 @@
-package com.feedbackproject.model;
+ package com.feedbackproject.model;
 
 import jakarta.persistence.*;
 
